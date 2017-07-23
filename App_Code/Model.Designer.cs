@@ -11,7 +11,7 @@
 [assembly: global::System.Data.Objects.DataClasses.EdmSchemaAttribute()]
 
 // Original file name:
-// Generation date: 20-Jun-17 2:55:30 PM
+// Generation date: 07-Jul-17 8:24:16 PM
 namespace sifibiModel
 {
     
